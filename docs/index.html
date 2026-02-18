@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documentation — Voca</title>
+    <meta name="description" content="Voca documentation and user guides.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+
+<body>
+    <!-- NAV -->
+    <nav>
+        <div class="nav-inner docs-layout">
+            <a href="../index.html" class="logo">
+                <div class="logo-icon">V</div>
+                <span class="logo-text">Voca</span>
+            </a>
+            <div class="nav-links">
+                <a href="index.html" class="active">Docs</a>
+                <a href="../index.html#install">Install</a>
+                <a href="../index.html#features">Features</a>
+                <a href="https://github.com/ambicuity/voca" target="_blank">GitHub</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="docs-layout">
+        <aside class="sidebar">
+            <div class="sidebar-group">
+                <div class="sidebar-title">Getting Started</div>
+                <a href="index.html" class="sidebar-link active">Overview</a>
+                <a href="#" class="sidebar-link">Project</a>
+                <a href="#" class="sidebar-link">Tool</a>
+                <a href="#" class="sidebar-link">Who and Why</a>
+            </div>
+            <div class="sidebar-group">
+                <div class="sidebar-title">Reference</div>
+                <a href="#" class="sidebar-link">Protocols</a>
+                <a href="protocols/ssl-certificates.html" class="sidebar-link params-list">SSL Certificates</a>
+                <a href="#" class="sidebar-link">Releases</a>
+            </div>
+        </aside>
+
+        <main class="docs-content">
+            <div class="breadcrumb">
+                <a href="../index.html">Home</a>
+                <span class="sep">/</span>
+                <span>Docs</span>
+                <span class="sep">/</span>
+                <span>Overview</span>
+            </div>
+
+            <h1>Documentation</h1>
+            <p>Welcome to the Voca documentation. Voca is a powerful, non-interactive network downloader designed for
+                speed, reliability, and ease of use.</p>
+
+            <p>Select a topic from the sidebar to explore features, protocols, and configuration options.</p>
+
+            <h2>Quick Start</h2>
+            <p>Install Voca using the command line:</p>
+            <pre><code>curl -fsSL voca.riteshrana.engineer/install.sh | sh</code></pre>
+
+            <div class="docs-note">
+                <strong>Note:</strong> This documentation is currently being expanded.
+                Detailed guides for specific protocols (HTTP, HTTPS, FTP) and features are being added regularly.
+            </div>
+
+            <h2>Topics</h2>
+            <ul>
+                <li><strong>Project:</strong> Architecture and design philosophy.</li>
+                <li><strong>Protocols:</strong> Supported protocols and configuration.</li>
+                <li><strong>SSL Certificates:</strong> Managing secure connections and certificates.</li>
+                <li><strong>Tool:</strong> Command-line usage and options.</li>
+            </ul>
+        </main>
+    </div>
+</body>
+
+</html>
