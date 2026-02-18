@@ -1,0 +1,58 @@
+Voca Proprietary Software License
+Copyright (C) 2025-2026 Ritesh Rana <contact@riteshrana.engineer>
+All rights reserved.
+
+TERMS AND CONDITIONS
+
+1. GRANT OF LICENSE
+   You are granted a non-exclusive, non-transferable, revocable license to
+   use the Voca software ("Software") in binary form solely for your
+   personal, non-commercial purposes, subject to the terms below.
+
+2. RESTRICTIONS
+   You may NOT:
+   a) Copy, redistribute, sublicense, or transfer the Software to any
+      third party, in whole or in part, in any form.
+   b) Modify, adapt, translate, reverse engineer, decompile, disassemble,
+      or create derivative works based on the Software.
+   c) Use the Software for any commercial purpose, including but not
+      limited to selling, licensing, or providing the Software as part of
+      a commercial product or service.
+   d) Remove or alter any proprietary notices, labels, or marks on the
+      Software.
+   e) Use the Software in any manner that infringes the intellectual
+      property rights of the copyright holder.
+
+3. INTELLECTUAL PROPERTY
+   The Software and all copies thereof are proprietary to and the property
+   of Ritesh Rana. All rights in the Software not specifically granted in
+   this license are reserved by Ritesh Rana. The structure, organization,
+   and source code of the Software are trade secrets and confidential
+   information of Ritesh Rana.
+
+4. COMMERCIAL LICENSING
+   For commercial use, enterprise licensing, or redistribution rights,
+   contact: contact@riteshrana.engineer
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES,
+   OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+   ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+   OTHER DEALINGS IN THE SOFTWARE.
+
+6. TERMINATION
+   This license is effective until terminated. It will terminate
+   automatically without notice if you fail to comply with any term of
+   this license. Upon termination, you must destroy all copies of the
+   Software in your possession.
+
+7. GOVERNING LAW
+   This license shall be governed by and construed in accordance with the
+   laws of India, without regard to its conflict of law provisions.
+
+For questions or licensing inquiries:
+  Ritesh Rana <contact@riteshrana.engineer>
+  https://github.com/ambicuity/voca-core
